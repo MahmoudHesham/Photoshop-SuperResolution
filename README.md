@@ -1,5 +1,5 @@
 # Photoshop Super Resolution :mag:
-A user-friendly script to use srgan for upscaling images directly inside photoshop
+A user-friendly script to use srgan for upscaling images directly inside photoshop.
 
 # Authors
 * Photoshop script (.jsx and .py) [3deep.org](https://www.3deep.org) | author [Mahmoud Hesham](https://github.com/MahmoudHesham).
