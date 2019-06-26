@@ -1,4 +1,4 @@
-# Photoshop Super Resolution :mag:
+# Photoshop Super Resolution Using Machine Learning :mag:
 <p align="center"><b>A user-friendly script to use srgan for upscaling images directly inside photoshop.</b></p>
 
 ![Photoshop Menu](Upscale_comparison.jpg?raw=true)
