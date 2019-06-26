@@ -1,5 +1,7 @@
 # Photoshop Super Resolution :mag:
-A user-friendly script to use srgan for upscaling images directly inside photoshop.
+<p align="center"><b>A user-friendly script to use srgan for upscaling images directly inside photoshop.</b></p>
+
+![Photoshop Menu](Upscale_comparison.jpg?raw=true)
 
 # Requirements
 Based on the super resolution repository the machine learning solution requires tensorflow and tensorlayer to be installed on your python environment.
@@ -12,6 +14,7 @@ Based on the super resolution repository the machine learning solution requires 
 * In case of not having a supporting GPU, you can still use tensorflow the cpu version but the image processing time will be longer.
 
 # Installation
+![Photoshop Menu](Photoshop_menu.jpg?raw=true)
 * After fulfilling the requirements all what you need is just to copy the **Presets** folder inside your photoshop root directory and accept the overwriting.
 * Restart your photoshop if you have a running session already.
 * Run the script from `File > Scripts > [3Deep] SuperResolution`.
